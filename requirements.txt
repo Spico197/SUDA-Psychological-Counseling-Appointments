@@ -1,0 +1,4 @@
+requests
+loguru
+lxml
+tqdm
